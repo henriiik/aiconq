@@ -39,7 +39,7 @@ function onWindowResize() {
 
 let isRunning = false;
 let lastTick = performance.now();
-let tickLength = 200;
+let tickLength = 150;
 
 function toggleRunning() {
     isRunning = !isRunning;
