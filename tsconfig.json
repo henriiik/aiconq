@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "jsx": "react",
+        "module": "system",
+        "newLine": "LF",
+        "noImplicitAny": false,
+        "outDir": "out",
+        // "outFile": "index.js",
+        "sourceMap": true,
+        "strictNullChecks": true,
+        "target": "es2015"
+    },
+    "include": [
+        "src/**/*"
+    ]
+}
